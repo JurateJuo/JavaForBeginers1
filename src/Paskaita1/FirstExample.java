@@ -1,5 +1,6 @@
+package Paskaita1;
+
 import java.util.Scanner;
-import java.util.concurrent.SynchronousQueue;
 
 /**
  * Created by acmenukas on 2017-04-04.
