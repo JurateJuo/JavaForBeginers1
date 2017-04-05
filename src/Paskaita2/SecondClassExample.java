@@ -18,8 +18,12 @@ public class SecondClassExample {
         //System.out.println naudojamas tik tada kai norime atspausdinti reisme i console. LN nukelia i nauja eilute
         System.out.println("Petras");
         example2(); //statinio metodo iskvietimas
-        SecondClassExample className = new SecondClassExample();
+        SecondClassExample className = new SecondClassExample(); //sukuriamas klases objektas
         className.example3(); //nestatinio metodo iskvietimas
+
+        //konstruktoriaus iskvietimas
+        ConstructorExample co = new ConstructorExample();
+        //ConstructorExample co1 - new ConstructorExample(12);   (sitas uzmokentuotas kad nemestu klaidos)
     }
 
 
