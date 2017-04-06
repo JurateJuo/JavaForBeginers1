@@ -9,7 +9,7 @@ import java.util.Scanner;
  */
 public class ExampleOnePointNine {
     public static void main(String[] args) { //void naudojamas kai nereikia grazinti rezultato
-        System.out.println("Vidutines kuro sanaudos: "getAverage());
+        System.out.println("Vidutines kuro sanaudos: " +getAverage());
     }
 
     public static double getAverage() {

@@ -22,7 +22,7 @@ public class SecondClassExample {
         className.example3(); //nestatinio metodo iskvietimas
 
         //konstruktoriaus iskvietimas
-        ConstructorExample co = new ConstructorExample();
+        //ConstructorExample co = new ConstructorExample();
         //ConstructorExample co1 - new ConstructorExample(12);   (sitas uzmokentuotas kad nemestu klaidos)
     }
 
