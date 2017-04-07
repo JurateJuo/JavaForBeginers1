@@ -5,6 +5,13 @@ import java.util.Scanner;
 /**
  * Created by acmenukas on 2017-04-06.
  */
+
+
+//Parašyti programą, kuri leistų vartotojui įvesti norimą skaičių ir po to parašytų ar
+// šis skaičius yra lyginis, ar nelyginis. Užuomina panaudokite % operatoriu.
+
+
+
 public class uzdavinysOnePointOne {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
